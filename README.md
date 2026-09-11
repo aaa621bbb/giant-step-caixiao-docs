@@ -1,6 +1,11 @@
 # 开发文档索引
 
-本目录存放「巨人踩城」玩法的需求与重做方案。
+本目录存放「巨人踩城」玩法的需求与重做方案（**网页 Babylon 线**：仓库 `aaa621bbb/giant-step-caixiao`）。
+
+> ⚠️ **注意：这些文档只对网页 Babylon 版本有效。**
+> 若你在做 **Unity 版**（仓库 `aaa621bbb/MMDHandmade-Unity`，UMT 0.5.1 + Built-in RP + Android），
+> 请改读那里的 Unity 口径文档：`docs/Unity_巨人踩城_重做方案_v2.1.md`、`docs/Unity_摆姿势模块_方案_v0.1.md`、`docs/Unity_巨人踩城_挑战书_给AI.md`。
+> 两边的加载/骨骼/物理/单位 API 完全不同（`createMmdModel` vs `PMXImporter.BuildUnityObjects`；`k_MMDUnitToUnityUnit = 0.08`），**不要互相照抄**。
 
 | 文档 | 内容 | 用途 |
 |---|---|---|
